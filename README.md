@@ -1,1 +1,5 @@
-# Assignment 1\n\nGroup Members:\n- Effy Tang\n- Weiqi Yang
+# Assignment 1
+
+Group Members:
+- Effy Tang
+- Weiqi Yang
